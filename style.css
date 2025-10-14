@@ -1,0 +1,125 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #f2f2f2;
+    margin: 0;
+    padding: 20px;
+  }
+  
+  header {
+    text-align: center;
+    background: #333;
+    color: white;
+    padding: 20px;
+    border-radius: 10px;
+  }
+  
+  .activity {
+    margin: 30px 0;
+    padding: 20px;
+    background: white;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+  }
+  
+  .flexpair {
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+  }
+  
+  .container {
+    border: 2px solid #333;
+    background: #fafafa;
+    width: 48%;
+    min-height: 120px;
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .box {
+    background: lightcoral;
+    color: white;
+    font-size: 20px;
+    padding: 20px;
+    margin: 5px;
+    border-radius: 5px;
+  }
+  
+  /* ===========================
+     STUDENT TASK SECTIONS
+     =========================== */
+  
+  /* Activity 1 */
+  .task-1 {
+    /* TODO: display: flex; */
+  }
+  
+  /* Activity 2 */
+  .task-2 {
+    /* TODO: display: flex; flex-direction: row-reverse; */
+  }
+  
+  /* Activity 3 */
+  .task-3 {
+    /* TODO: display: flex; flex-direction: column; */
+  }
+  
+  /* Activity 4 */
+  .task-4 {
+    /* TODO: display: flex; justify-content: center; */
+  }
+  
+  /* Activity 5 */
+  .task-5 {
+    /* TODO: display: flex; justify-content: space-between; */
+  }
+  
+  /* Activity 6 */
+  .task-6 {
+    /* TODO: display: flex; justify-content: space-around; */
+  }
+  
+  /* Activity 7 */
+  .task-7 {
+    /* TODO: display: flex; align-items: center; */
+  }
+  
+  /* Activity 8 */
+  .task-8 {
+    /* TODO: display: flex; flex-wrap: wrap; */
+  }
+  
+  /* Activity 9 */
+  .task-9 {
+    /* TODO: display: flex; flex-wrap: wrap; align-content: space-around; */
+  }
+  
+  /* Activity 10 */
+  .task-10 {
+    /* TODO: display: flex; flex-direction: column; align-items: center; justify-content: space-between; */
+  }
+  
+  /* ===========================
+     SOLUTION SECTIONS
+     =========================== */
+  
+  .sol-1 { display: flex; }
+  
+  .sol-2 { display: flex; flex-direction: row-reverse; }
+  
+  .sol-3 { display: flex; flex-direction: column; }
+  
+  .sol-4 { display: flex; justify-content: center; }
+  
+  .sol-5 { display: flex; justify-content: space-between; }
+  
+  .sol-6 { display: flex; justify-content: space-around; }
+  
+  .sol-7 { display: flex; align-items: center; }
+  
+  .sol-8 { display: flex; flex-wrap: wrap; }
+  
+  .sol-9 { display: flex; flex-wrap: wrap; align-content: space-around; }
+  
+  .sol-10 { display: flex; flex-direction: column; align-items: center; justify-content: space-between; }
+  
