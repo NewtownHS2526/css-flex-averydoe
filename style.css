@@ -52,51 +52,73 @@ body {
   /* Activity 1 */
   .task-1 {
     /* TODO: display: flex; */
+    display: flex;
   }
   
   /* Activity 2 */
   .task-2 {
     /* TODO: display: flex; flex-direction: row-reverse; */
+    display: flex;
+    flex-direction: row-reverse;
   }
   
   /* Activity 3 */
   .task-3 {
     /* TODO: display: flex; flex-direction: column; */
+     display: flex;
+     flex-direction: column;
   }
   
   /* Activity 4 */
   .task-4 {
     /* TODO: display: flex; justify-content: center; */
+    display: flex;
+    justify-content: center;
   }
   
   /* Activity 5 */
   .task-5 {
     /* TODO: display: flex; justify-content: space-between; */
+    display: flex;
+    justify-content: space-between;
   }
   
   /* Activity 6 */
   .task-6 {
     /* TODO: display: flex; justify-content: space-around; */
+    display: flex;
+    justify-content: space-around;
   }
   
   /* Activity 7 */
   .task-7 {
     /* TODO: display: flex; align-items: center; */
+    display: flex;
+    align-items: center;
   }
   
   /* Activity 8 */
   .task-8 {
     /* TODO: display: flex; flex-wrap: wrap; */
+    display: flex;
+    flex-wrap: wrap;
   }
   
   /* Activity 9 */
   .task-9 {
     /* TODO: display: flex; flex-wrap: wrap; align-content: space-around; */
+    display: flex;
+    flex-wrap: wrap;
+    align-content: space-around;
   }
   
   /* Activity 10 */
   .task-10 {
     /* TODO: display: flex; flex-direction: column; align-items: center; justify-content: space-between; */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
   }
   
   /* ===========================
@@ -122,4 +144,3 @@ body {
   .sol-9 { display: flex; flex-wrap: wrap; align-content: space-around; }
   
   .sol-10 { display: flex; flex-direction: column; align-items: center; justify-content: space-between; }
-  
